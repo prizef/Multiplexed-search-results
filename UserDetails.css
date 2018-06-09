@@ -1,0 +1,28 @@
+#avatarProfilePicture .UserAvatar img{
+    height: 35px;
+    width: 35px;
+}
+
+#avatarProfilePicture .UserAvatar .UserType{
+    display: none;
+}
+
+#avatarProfileName .UserAvatar img{
+    display: none;
+}
+
+#avatarProfileName .UserAvatar .UserType{
+    display: none;
+}
+
+#avatarProfileUserType .UserAvatar img{
+    display: none;
+}
+
+#avatarProfileUserType .UserAvatar .FullName{
+    display: none;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    border-top: none;
+}
